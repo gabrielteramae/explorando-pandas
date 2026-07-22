@@ -26,7 +26,7 @@ python carteira.py
 
 Gera o arquivo `painel_carteira.png` na mesma pasta.
 
-## 🔧 Pra brincar
+## 🔧 Aprendendo
 
 - Muda `np.random.seed(42)` pra ver outros cenários
 - Ajusta os `pesos` da carteira (linha ~68)
